@@ -2,7 +2,7 @@ export default {
   name: 'abouts',
   title: 'Abouts',
   type: 'document',
-  fields: [
+  fields: [         
     {
       name: 'title',
       title: 'Title',

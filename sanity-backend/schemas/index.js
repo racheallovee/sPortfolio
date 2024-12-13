@@ -4,6 +4,6 @@ import brand from './brand'
 
 // Creating an array of schema types
 const schemaTypes = [about, brand]
-
+         
 // Exporting the array of schema types
 export {schemaTypes}

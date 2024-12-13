@@ -2,7 +2,7 @@ export default {
   name: 'brands',
   title: 'Brands',
   type: 'document',
-  fields: [
+  fields: [             
     {
       name: 'imgUrl',
       title: 'ImgUrl',
